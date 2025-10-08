@@ -4,3 +4,4 @@ public class file3
 		System.out.println("Hello world");
 		System.out.println("hello miracle");
 		}
+}
